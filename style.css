@@ -92,7 +92,7 @@ div.solid {
     color: white;
     font-family: arial;
     border-radius: 3px;
-    width: 200px;
+    width: 160px;
     border: 1px solid white;
     margin: auto;
     height: 25px;
@@ -113,7 +113,7 @@ div.solid {
     display: inline-block;
     font-family: arial;
     margin-top: 10px;
-    margin-left: 30px;
+    margin-left: 35px;
 }
 
 div.number {
@@ -121,6 +121,7 @@ div.number {
     font-size: 80px;
     display: inline-block;
     width: 50px;
+    margin-left: 10px;
 }
 
 .inner {
